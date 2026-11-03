@@ -1,0 +1,18 @@
+{
+  "source_type": "synthetic_fixture_not_live_github",
+  "captured_at": "2026-10-21T10:00:00+07:00",
+  "issues": [
+    {
+      "id": "SIM-001",
+      "status": "open",
+      "title": "Investigate classification at load boundary",
+      "label": "bug"
+    },
+    {
+      "id": "SIM-002",
+      "status": "closed",
+      "title": "Add invalid-input check",
+      "label": "test"
+    }
+  ]
+}
